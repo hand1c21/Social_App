@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319879152772",
+    "project_id": "item-mate",
+    "storage_bucket": "item-mate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319879152772:android:4598f92a860006922b6ed1",
+        "android_client_info": {
+          "package_name": "com.example.final_project_two"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZw6zKAosSIO1hH7p57Wgg3a4StA3HB2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
